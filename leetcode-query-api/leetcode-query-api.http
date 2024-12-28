@@ -1,0 +1,6 @@
+@leetcode_query_api_HostAddress = http://localhost:5059
+
+GET {{leetcode_query_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
