@@ -1,0 +1,1 @@
+A platform for organizing and managing LeetCode problems by specific topics and difficulty levels. Unlike LeetCode's existing filters, this platform allows users to precisely select problems from the topics they want to practice while avoiding questions from unrelated topics. This ensures a more focused and efficient learning experience.A
